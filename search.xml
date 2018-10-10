@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Markdown基本语法]]></title>
+    <url>%2F2018%2F10%2F05%2FMarkdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[基本语法 一、标题123456# 这是一级标题## 这是二级标题### 这是三级标题#### 这是四级标题##### 这是五级标题###### 这是六级标题 这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题 二、字体1234**这是加粗的文字***这是倾斜的文字*`***这是斜体加粗的文字***~~这是加删除线的文字~~ 这是加粗的文字这是倾斜的文字`这是斜体加粗的文字这是加删除线的文字 三、引用123&gt;这是引用的内容&gt;&gt;这是引用的内容&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容 这是引用的内容 这是引用的内容 这是引用的内容 四、分割线三个或者三个以上_或*都可以。1234-------******** 五、插入1、图片1234![图片alt](图片地址 &apos;&apos;图片title&apos;&apos;)图片alt就是显示在图片下面的文字，相当于对图片内容的解释(没用，title代替了全部功能)。图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 实例：1![&quot;图片下标&quot;](/images/qifengle.jpg &quot;起风了222&quot;) 2、音乐比如网易云音乐，找到喜欢的歌曲，点击分享按钮，把里面的代码复制下来，直接粘贴到博文中即可1&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;http://music.163.com/outchain/player?type=2&amp;id=25706282&amp;auto=0&amp;height=66&quot;&gt;&lt;/iframe&gt; 3、视频同上1&lt;iframe height=498 width=510 src=&quot;http://player.youku.com/embed/XNjcyMDU4Njg0&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt; 4、超链接语法：12[超链接名](超链接地址 &quot;超链接title&quot;)title可加可不加 示例:12[简书](http://jianshu.com)[百度](http://baidu.com) 简书百度 六、列表(暂时没法一级列表)1、无序列表12345- 列表内容+ 列表内容* 列表内容注意：- + * 跟内容之间都要有一个空格 列表内容 列表内容 列表内容 注意：- + * 跟内容之间都要有一个空格 2、有序列表123451. 列表内容2. 列表内容3. 列表内容注意：序号跟内容之间要有空格 列表内容 列表内容 列表内容 3、列表嵌套123- 列表内容 + 列表内容 * 列表内容 列表内容 列表内容 列表内容 七、代码1、单行代码代码两边加 ` 2、代码块1234567(```) 代码... 代码... 代码...(```)实际是没有括号的 八、其他1、隐藏首页文章&lt;!--more--&gt;之后的文章将被隐藏]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+        <tag>博客建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2018%2F10%2F05%2FMy-New-post%2F</url>
+    <content type="text"><![CDATA[海滨墓园–保尔·瓦雷里从大海发出的一股新鲜气息还了我灵魂……啊，咸味的魄力！奔赴海浪去，跑回来一身是劲！对！赋予了谵狂天灾的大海，斑斑的豹皮，绚丽的披肩上绽开太阳的千百种，千百种诡奇的形象，绝对的海蛇怪．为你的蓝肉所陶醉，还在衔着你粼粼闪光的白龙尾，搅起了表面像寂静的一片喧嚷。起风了，唯有努力生存！天边的气流翻开又阖上了我的书，波涛敢于从巉岩口溅沫飞迸！飞去吧，令人眼花缭乱的书页！迸裂吧，波浪！用漫天狂澜来打裂这片有白帆啄食的平静的房顶。]]></content>
+      <categories>
+        <category>个人博客</category>
+      </categories>
+      <tags>
+        <tag>感想</tag>
+        <tag>个人博客</tag>
+      </tags>
+  </entry>
+</search>
